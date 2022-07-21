@@ -1,0 +1,19 @@
+{
+  "name": "VuePress",
+  "version": "0.0.1",
+  "description": "&#34;Primer proyecto&#34;",
+  "main": "index.js",
+  "authors": {
+    "name": "Zhent",
+    "email": "jdcaballeror@correo.udistrital.edu.co"
+  },
+  "repository": "&#34;https://github.com/zhentinela-ai/VuePress-inicio.git&#34;/VuePress",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
